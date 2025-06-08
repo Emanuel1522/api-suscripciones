@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "API falsa con JSON Server",
   "scripts": {
-    "start": "json-server db.json"
+    "start": "json-server --watch db.json --port $PORT"
   },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.4"
   }
 }
