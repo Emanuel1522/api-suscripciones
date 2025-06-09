@@ -1,20 +1,92 @@
 {
   "users": [
     {
-      "name": "a",
-      "email": "a",
-      "password": "a",
+      "name": "admin",
+      "email": "admin",
+      "password": "admin",
       "id": 1
     }
   ],
   "items": [
     {
-      "id": 1,
-      "idUser": 1,
-      "name": "Ejemplo",
-      "price": "9.99",
-      "type": "Streaming",
-      "date": "2025-06-08"
-    }
+    "id": 1,
+    "idUser": 1,
+    "name": "Netflix",
+    "price": "13.99",
+    "type": "Streaming",
+    "date": "2025-06-08"
+  },
+  {
+    "id": 2,
+    "idUser": 1,
+    "name": "Spotify",
+    "price": "9.99",
+    "type": "Música",
+    "date": "2025-06-05"
+  },
+  {
+    "id": 3,
+    "idUser": 1,
+    "name": "Disney+",
+    "price": "7.99",
+    "type": "Streaming",
+    "date": "2025-06-01"
+  },
+  {
+    "id": 4,
+    "idUser": 1,
+    "name": "HBO Max",
+    "price": "11.99",
+    "type": "Streaming",
+    "date": "2025-06-03"
+  },
+  {
+    "id": 5,
+    "idUser": 1,
+    "name": "Amazon Prime",
+    "price": "12.99",
+    "type": "Streaming",
+    "date": "2025-06-07"
+  },
+  {
+    "id": 6,
+    "idUser": 1,
+    "name": "YouTube Premium",
+    "price": "10.99",
+    "type": "Música",
+    "date": "2025-06-04"
+  },
+  {
+    "id": 7,
+    "idUser": 1,
+    "name": "ChatGPT Plus",
+    "price": "20.00",
+    "type": "Herramienta IA",
+    "date": "2025-06-06"
+  },
+  {
+    "id": 8,
+    "idUser": 1,
+    "name": "Notion",
+    "price": "5.00",
+    "type": "Productividad",
+    "date": "2025-06-02"
+  },
+  {
+    "id": 9,
+    "idUser": 1,
+    "name": "Canva Pro",
+    "price": "12.99",
+    "type": "Diseño",
+    "date": "2025-06-09"
+  },
+  {
+    "id": 10,
+    "idUser": 1,
+    "name": "Crunchyroll",
+    "price": "6.99",
+    "type": "Anime",
+    "date": "2025-06-08"
+  }
   ]
 }
